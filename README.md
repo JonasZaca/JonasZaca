@@ -12,6 +12,10 @@
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
+</br>
+</br>
+</br>
+
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
 - 🎓 Education level: Technologist in Systems Analysis and Development by [Faculdade Politécnica de Campinas] (http://uniesp.edu.br/sites/policamp)
 
