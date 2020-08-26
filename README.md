@@ -1,6 +1,6 @@
 ### Hi, I'm Jonas Zacari. 👋
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<a target="_blank" href="https://www.linkedin.com/in/jzacari/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
