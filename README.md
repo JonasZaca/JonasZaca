@@ -13,7 +13,7 @@ I currently work in the Mobile Development area, using JAVA / KOTLIN.
 Also acting in the testing part, using Android espresso.
 Always aiming at personal and professional improvement.
 
-Labor omnia vincit Improbus. 
+  Labor omnia vincit Improbus. 
 
 </br>
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
