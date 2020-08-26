@@ -5,6 +5,7 @@
 [![Whats](https://img.shields.io/badge/-WhatsApp-green)](https://api.whatsapp.com/send?phone=5519997904945)
 </br>
 ![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
+</br>
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
 - 🎓 Education level: Technologist in Systems Analysis and Development by [Faculdade Politécnica de Campinas](https://uniesp.edu.br/sites/policamp/)
 </br>
