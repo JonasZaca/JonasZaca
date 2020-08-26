@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jzacari/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonas.zacari@gmail.com)
+[![Whats](https://img.shields.io/badge/-WhatsApp-green)](https://api.whatsapp.com/send?phone=5519997904945)
 
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5519997904945">
