@@ -1,10 +1,8 @@
 ### Hi, I'm Jonas Zacari, a Mobile Developer. 💻 📲
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jzacari/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonas.zacari@gmail.com)
 
-<a target="_blank" href="mailto:jonas.zacari@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5519997904945">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
