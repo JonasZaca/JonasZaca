@@ -5,8 +5,6 @@
 [![Whats](https://img.shields.io/badge/-WhatsApp-green)](https://api.whatsapp.com/send?phone=5519997904945)
 </br>
 </br>
-![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
-</br>
 </br>
 - Enthusiast in the area of ​​development and infrastructure.
 I currently work in the Mobile Development area, using JAVA / KOTLIN.
@@ -31,6 +29,9 @@ Always aiming at personal and professional improvement.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+   
+![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
 
 <!--
 **JonasZaca/JonasZaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
