@@ -4,6 +4,10 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a target="_blank" href="mailto:jonas.zacari@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 <!--
 **JonasZaca/JonasZaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
