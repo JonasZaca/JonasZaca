@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
 - 🎓 Education level: Technologist in Systems Analysis and Development by [Faculdade Politécnica de Campinas](https://uniesp.edu.br/sites/policamp/)
 </br>
-![JonasZaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
 <!--
 **JonasZaca/JonasZaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
