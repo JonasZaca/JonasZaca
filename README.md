@@ -3,14 +3,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jzacari/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonas.zacari@gmail.com)
 [![Whats](https://img.shields.io/badge/-WhatsApp-green)](https://api.whatsapp.com/send?phone=5519997904945)
-</br>
-</br>
-![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
+
 </br>
 </br>
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
 - 🎓 Education level: Technologist in Systems Analysis and Development by [Faculdade Politécnica de Campinas](https://uniesp.edu.br/sites/policamp/)
 </br>
+</br>
+![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
 
 <!--
 **JonasZaca/JonasZaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
