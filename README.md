@@ -8,6 +8,14 @@
 ![Jonaszaca GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasZaca&show_icons=true)
 </br>
 </br>
+- Enthusiast in the area of ​​development and infrastructure.
+I currently work in the Mobile Development area, using JAVA / KOTLIN.
+Also acting in the testing part, using Android espresso.
+Always aiming at personal and professional improvement.
+
+Labor omnia vincit Improbus. 
+
+</br>
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
 - 🎓 Education level: Technologist in Systems Analysis and Development by [Faculdade Politécnica de Campinas](https://uniesp.edu.br/sites/policamp/)
 </br>
