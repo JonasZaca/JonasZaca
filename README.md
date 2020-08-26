@@ -12,13 +12,14 @@ Also acting in the testing part, using Android espresso.
 Always aiming at personal and professional improvement.
 
   Labor omnia vincit Improbus. 
-
+----
 </br>
 - 🔭 I’m currently working on [IBM](https://github.com/IBM) at Mobile Developer
 - 🎓 Education level: Technologist in Systems Analysis and Development by [Faculdade Politécnica de Campinas](https://uniesp.edu.br/sites/policamp/)
 </br>
 </br>
 </br>
+----
 - Languagens and Tools:
 </br>
 </br>
@@ -30,6 +31,8 @@ Always aiming at personal and professional improvement.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+
+---- 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
