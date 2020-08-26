@@ -1,8 +1,6 @@
 ### Hi, I'm Jonas Zacari, a Mobile Developer. 💻 📲
 
-<a target="_blank" href="https://www.linkedin.com/in/jzacari/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jzacari/)
 
 <a target="_blank" href="mailto:jonas.zacari@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
